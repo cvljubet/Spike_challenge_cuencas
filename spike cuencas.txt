@@ -1,0 +1,16 @@
+Desafío cuencas
+
+1. Vemos que las columnas correspondientes a precip_promedio y temp_max_promedio tienen menor valor en conteo que el n° de filas del data set, ahí tenemos missing values. Esto probablemente ocurre porque no hay cuencas sin estaciones de temperatura o precipitación.
+
+PEGAR LOS HISTOGRAMAS QUE HICE Y PONER ALGUN COMENTARIO
+
+
+caudal y precipitacion promedio se concentran en ciertos valores, en el caso de caudal promedio
+los valores se concentran entre 0 y 500 aprox, -------- mientras que en el caso de la precipitacion promedio esta se concentra entrte 0 y 2 mm, lo cual tiene sentido porque hay más días con poca lluvia o sin lluvia, otro dato a considerar es el máximo de precipitacíón en un día, el cual corrsponde a 258 mm.
+se concentran en ________ ESTO SEGÚN BOXPLOT
+
+las temperaturas máximas promedio se distribuyen de una forma que tiene a la distribución normal
+aunque de manera aproximada, el promedio está en torno a los 15 °
+
+
+
